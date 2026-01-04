@@ -1,0 +1,50 @@
+PLANTILLA — USO CONSCIENTE (CHATGPT)
+
+1) TAREA REAL
+Describe qué vas a hacer exactamente.
+(Ejemplo: escribir un artículo, revisar un texto, tomar una decisión, organizar ideas)
+
+→
+
+2) QUÉ PARTE DE LA TAREA DELEGAS
+Especifica qué quieres que haga ChatGPT y qué NO.
+(Ejemplo: revisar claridad sí / decidir por mí no)
+
+→
+
+3) QUÉ PARTE CONSERVAS TÚ
+Indica explícitamente qué responsabilidad sigue siendo tuya.
+(Ejemplo: criterio final, decisiones, publicación)
+
+→
+
+4) TIPO DE APOYO NECESARIO
+Marca el tipo de ayuda que buscas:
+- Revisión
+- Análisis
+- Organización
+- Validación
+- Detección de errores
+
+→
+
+5) RIESGO SI SE USA MAL
+Describe qué podría salir mal si delegas de más.
+(Ejemplo: texto genérico, decisiones incorrectas, pérdida de control)
+
+→
+
+6) LÍMITES CLAROS
+Define qué no debe hacer ChatGPT bajo ningún caso.
+(Ejemplo: inventar datos, cambiar enfoque, añadir relleno)
+
+→
+
+7) RESULTADO ÚTIL
+Define cómo sabrás que el uso ha sido correcto.
+(Ejemplo: entiendo mejor el problema, puedo actuar con claridad)
+
+→
+
+8) CONTENIDO O INFORMACIÓN BASE
+[Pega aquí el texto, notas o planteamiento]
